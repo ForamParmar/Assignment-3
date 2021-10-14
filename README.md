@@ -1,3 +1,2 @@
 # Assignment-3
-
-<a href="https://replit.com/@ForamParmar/Demo#index.js"> afdsc </a>
+Let's Start the Game!!<a href="https://replit.com/@ForamParmar/Demo#"> Click Here </a>

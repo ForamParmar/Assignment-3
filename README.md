@@ -4,4 +4,4 @@
 
 <h3>Let's Start the Game!!</h3>
 
-<a href="https://replit.com/@ForamParmar/QuizGame#index.js"> Click Here </a> 
+<a href="https://replit.com/@ForamParmar/QuizGame#index.js"> Click Here </a> to play it!!

@@ -1,6 +1,6 @@
 # Assignment-3
 
-<h1>CLI Quiz app in Node.js</h1>
+<h2>CLI Quiz app in Node.js</h2>
 
 <h3>Let's Start the Game!!</h3>
 
